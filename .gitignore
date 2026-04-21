@@ -1,0 +1,54 @@
+# Data files
+*.csv
+*.npy
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Editors
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Distribution / packaging
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+develop-eggs/
+.installed.cfg
+*.egg
+
+# Testing
+.coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Scikit-learn
+*.model
+.pkl
+
+# Temporary folders
+tmp/
+temp/
